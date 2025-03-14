@@ -1,31 +1,25 @@
-### Hi there 👋, I'm Israt Jahan
-#### Welcome to my Github!
-![Welcome to my Github!](https://img.freepik.com/free-vector/girl-using-laptop-with-binary-code_1308-114505.jpg?semt=ais_hybrid)
+<h1 align="center">Hi 👋, I'm Israt Jahan</h1>
+<h3 align="center">Welcome to my Github!</h3>
 
-BSC in Computer Science & Engineering (Running)
-Passionate about Web Development
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=isratrimii&label=Profile%20views&color=0e75b6&style=flat" alt="isratrimii" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isratrimii" alt="isratrimii" /></a> </p>
 
-Skills: HTML/CSS/JS/MySQL
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning Laravel 
-- 📫 How to reach me: isratrimi2002@gmail.com 
+- 🌱 I’m currently learning **Laravel**
 
+- 📫 How to reach me **isratrimi2002@gmail.com**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/isratrimii)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isratrimii&show_icons=true&locale=en&layout=compact" alt="isratrimii" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=isratrimii)](https://github.com/ryo-ma/github-profile-trophy)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isratrimii&show_icons=true&locale=en" alt="isratrimii" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isratrimii)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isratrimii&" alt="isratrimii" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isratrimii&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/isratrimii/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/isratrimii)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=isratrimii)  
 
 
