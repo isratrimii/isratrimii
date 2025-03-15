@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/girl-using-laptop-with-binary-code_1308-114505.jpg?semt=ais_hybrid">
 
-🎓 B.S.C in Computer Science and Engineering <b>
+🎓 B.S.C in Computer Science and Engineering <br>
 💡 Passionate about Web Development, DBMS
 
 
