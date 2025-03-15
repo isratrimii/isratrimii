@@ -10,7 +10,7 @@
 
 Skills: HTML/CSS/JS/PHP/MySQL
 
-- 🌱 I’m currently learning Laravel 
+- 🌱 I’m currently learning <b>Laravel</b>
 - 📫 How to reach me: isratrimi2002@gmail.com 
 
 
