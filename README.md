@@ -3,8 +3,8 @@
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/girl-using-laptop-with-binary-code_1308-114505.jpg?semt=ais_hybrid">
 
-B.S.C in Computer Science and Engineering
-Passionate about Web Development, DBMS
+🎓 B.S.C in Computer Science and Engineering <b>
+💡 Passionate about Web Development, DBMS
 
 
 Skills: HTML/CSS/JS/MySQL
@@ -19,9 +19,6 @@ Skills: HTML/CSS/JS/MySQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isratrimii&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/isratrimii)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=isratrimii)  
 
 
 
